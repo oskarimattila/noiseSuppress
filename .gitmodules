@@ -1,0 +1,9 @@
+[submodule "visqol"]
+	path = visqol
+	url = https://github.com/google/visqol
+[submodule "Demo/audio-SNR"]
+	path = Demo/audio-SNR
+	url = https://github.com/Sato-Kunihiko/audio-SNR/
+[submodule "rnnoise"]
+	path = rnnoise
+	url = https://gitlab.xiph.org/xiph/rnnoise

@@ -1,0 +1,6 @@
+soundFiles/
+.venv/
+Demo/.python-version
+Demo/projectDemo.py
+.DS_Store
+
